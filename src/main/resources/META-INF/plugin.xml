@@ -1,0 +1,19 @@
+<idea-plugin>
+    <id>org.ice.requestGUI</id>
+    <name>requestGUI</name>
+    <vendor email="1106703846@qq.com">插件属于个人</vendor>
+
+    <description>给request插件做的gui插件，可以可视化的编辑request里面的请求，减少学习成本！</description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
